@@ -24,6 +24,9 @@
 # array1 = np.random.rand(5)
 # print(array1)
 
+
+
+#---------POST LABS-----------
 import numpy as np
 # # Example 1: Creation of 1D array
 # arr1=np.array([10,20,30])
@@ -182,6 +185,7 @@ import numpy as np
 a = np.array([10, 20, 30, 40, 50])
 fourth_element = a[3]  
 print("4th element:", fourth_element)
+
 
 
 
